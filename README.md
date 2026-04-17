@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/CodersSquad/CodersSquad/main/assets/hacker.gif" alt="Hacker" width="350" />
+  <img src="https://raw.githubusercontent.com/BOSSENAFUL/Termux_Boss_Enaful-/main/1000419813.png" alt="Boss Enaful" width="350" />
 
   # 💀 TERMINAL BOSS ENAFUL 💀
   <p><b><i>"The Cyber 69 Zone | Untouchable Security"</i></b></p>
